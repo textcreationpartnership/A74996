@@ -1,0 +1,781 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last words and testimonies of and for William Allen, late of Cowen in Essex, a faithfull servant of the Lord; who finishing his testimony, departed this life the 21. of the 11th month, 1679.</title>
+            <author>Allen, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74996</idno>
+            <idno type="STC">Wing A1065B</idno>
+            <idno type="STC">ESTC R170100</idno>
+            <idno type="EEBO-CITATION">45789132</idno>
+            <idno type="OCLC">ocm 45789132</idno>
+            <idno type="VID">172446</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74996)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172446)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2630:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last words and testimonies of and for William Allen, late of Cowen in Essex, a faithfull servant of the Lord; who finishing his testimony, departed this life the 21. of the 11th month, 1679.</title>
+                  <author>Allen, William.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by Benjamin Clark ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Allen, William.</term>
+               <term>Last words.</term>
+               <term>Eulogies --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172446:1"/>
+            <pb facs="tcp:172446:1" rendition="simple:additions"/>
+            <p>THE Laſt WORDS AND TESTIMONIES Of and for <hi>William Allen.</hi>
+            </p>
+            <p>Late of <hi>Cowen</hi> in <hi>Eſſex,</hi> a faithfull Servant of the Lord; who finiſhing his Teſtimony, departed this Life the 21. of the 11th. Month, 1679.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and ſold by <hi>Benjamin Clark</hi> in <hi>George</hi> yard, <hi>Lombard</hi>-ſtreet, 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172446:2"/>
+            <pb n="1" facs="tcp:172446:2"/>
+            <head>The laſt Teſtimony and living Words of our dear Friend and Servant of the Lord <hi>William Allen,</hi> who depart<g ref="char:EOLhyphen"/>ed this Life the <hi>21.</hi> of the 11th. Month, <hi>1679.</hi>
+            </head>
+            <p>THe Earth is filled with the glory of the Lord, Praiſes, Praiſes, unto my God, who Reigns over all, who hath Re<g ref="char:EOLhyphen"/>deemed my Soul from the Grave, and my Life from the horrible Pit, who hath plucked my Feet out of the mire and Clay. Glory, Glory be unto thy great Name Oh my good God! As for my part I have fought the good Fight, and have kept the Faith, and a large ſhare of the Glo<g ref="char:EOLhyphen"/>ry of my God is ſealed unto my Soul, its but an earneſt of it that I have here, of that Crown of Life and Glory which my Father hath in ſtore for me.</p>
+            <pb n="2" facs="tcp:172446:3"/>
+            <p>It hath pleaſed the Lord to exerciſe me, as he did my Father <hi>Job</hi> for the tryal of my Faith and Patience; I have troden his Steps theſe twelve Months. A full reward thou haſt given me of Life and Glory: Oh my good God! how good art thou to me: I have re<g ref="char:EOLhyphen"/>ceived abundance of good at thy hand, and ſhall I not receive a little evil? Bleſſed be thy name for thy goodneſs; my Cup overflows I cannot utter it. And ſo continued, at times oft expreſſing the glory of the Lord, and the Immortality that reſted upon him; and charged friends to be faithful, and that the dread of God might always be upon their hearts, that they might anſwer his Love, in yeilding Obedience to his requirings: and then though they might meet with Exerciſes for the tryal of their Faith, yet the Lord would be with them if they abode faithful to the end; And the ſame Crown of life they ſhould enjoy which he had an aſſurance of. Therefore (ſaid he) Watch, and keep your Garments and Oyl in your Veſſels, that ye may be ready to enter with the Bride-groom. But as for thoſe that ſhall continue in Hypocriſie and Diſobedience, ſhun the Croſs of <hi>Jeſus</hi> and neglect to work while it is day; the night will come upon ſuch, and that
+<pb n="3" facs="tcp:172446:3"/> at unawares, when neither the Father nor the Son works, and the fooliſh Virgins ſtate they will be found in: and though they may deſire Oyl of the Wiſe, they will have none to ſpare, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the door will be ſhut upon ſuch, and the Sentence will be, time ſhall be no more, then woe and miſery will be their Portion for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver.</p>
+            <p>He divided the word aright to his two Daughters, and giving them good Counſel and Exhortation, ſaid, there was a bleſſing for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem for their Fathers ſake, if they ſhould bow <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Truth, and abide faithful therein.</p>
+            <p>He longed he ſaid, to haſt away, but was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illing to drink the Cup at his Fathers hand, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd wait his pleaſure</p>
+            <p>More was ſpoken by him, as friends came <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to ſee him, and as his ſtrength would per<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, which was not taken in writing. Then his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peech growing very low, he could not well <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e heard, and ſeemed for ſome hours to lie as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he was departing; at laſt, he ſaid to a friend, was almoſt gon, but I cannot go yet, there is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me ſecret counſel of God in it, which cau<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d friends to believe that he had yet a farther <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtimony to bear to ſome, which was ſo; for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er ſome little time, more friends coming in,
+<pb n="4" facs="tcp:172446:4"/> he was beyond outward likelyhood enabled to declare much to them, and exhorted to faith<g ref="char:EOLhyphen"/>fulneſs, and ſaid, I am glad to ſee my friends about me: I go to my God and your God, my Father and your Father; my boſome is full of Love to all my Fathers Children. And then ſaid, now Lord <hi>Jeſus</hi> how acceptable is it to leave all the World and be gathered up to thee. And ſo commiting his Spirit to the Lord, ſoon fell aſleep, and is entred into Reſt and Immortal Glory.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Teſtimony of <hi>Martha Allen,</hi> concerning her deceaſed Husband <hi>William Allen.</hi>
+                  </head>
+                  <p>I Have parted with a man of God, a Mini<g ref="char:EOLhyphen"/>ſter of <hi>Jeſus</hi> Chriſt, an ancient in <hi>Iſrael,</hi> who hath fought the good Fight and kept the Faith, and is entred into his reſt. He would often lament for thoſe that ſet down in an eaſ<g ref="char:EOLhyphen"/>ful State; and would often ſay, that a terrible day would overtake thoſe that are careleſs and at eaſe in <hi>Sion</hi> that ſlumbers away their time, who are in the Holes, and Caves, and Dens of the Earth. And in the time of his health (that he was able to go forth and viſit friends) he would oft ſay to me, God hath made me a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:172446:4"/> Huntſman, I muſt viſit many of them there, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n their Holes and Caves, I muſt be clear of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heir bloud. And would oft ſpeak of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ore travel and pangs that he had for ſome, which made his Soul oft ſorrowful, as unto death. So in that truth, light, and life that dwelt in him, am I given up to follow the Lord to the end of my days till my change comes: who am a Companion to all that fears the Lord.</p>
+                  <closer>
+                     <signed>Martha Allen.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>This is the Teſtimony that lives in my heart, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oncerning my dear and well beloved friend <hi>William Allen;</hi> who died the 21ſt. day of the 11th. Month 1679. Who in his life time was a man of an upright heart and walked in the integrity of the Goſpel of Chriſt, of which he received a diſpenſation in the early days of his convincement, about the year 1654. And the Power of the Lord made a ſpeedy change <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n him, and ſtirr'd up a Zeal in his Soul againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he falſe ways and worſhips, ſuperſtitions and prophaneneſs of thoſe times. Which Zeal for God produced living Teſtimonies from him in divers Towns and places (where he travelled)
+<pb n="6" facs="tcp:172446:5"/> againſt thoſe things which were evil, which ſometimes occaſioned him to come under hard ſufferings, bonds, and impriſonments; In all which he behaved himſelf as a Faithful and Couragious Souldier of Chriſt <hi>Jeſus,</hi> and a good example to his fellow ſufferers, Preaching the Goſpel of peace, both in life and doctrine; ſtopt the mouths of many gainſayers: And had a ſweet and comfortable effect, upon ma<g ref="char:EOLhyphen"/>ny who were reached in their Conſciences by his Teſtimony and Miniſtry, and by his inno<g ref="char:EOLhyphen"/>cent Converſation; ſo that they embraced the Truth he Preached, and ſuffered for, and be<g ref="char:EOLhyphen"/>came Heirs of the Salvation of God, to their everlaſting comfort, and the furtherance of the Goſpel.</p>
+                  <p>I have known him about 24 years, In all which time his Converſation in the Churches of Chriſt where he was led to labour and tra<g ref="char:EOLhyphen"/>vel was amiable and lovely, and his Teſtimo<g ref="char:EOLhyphen"/>ny received with good acceptation among the faithful. He was a man of a ſevere carriage to ſuch as made a profeſſion of Truth, and walk<g ref="char:EOLhyphen"/>ed not with a ſtreight foot in the Goſpel; but very tender over all ſuch as were young and under exerciſes about their inward condition, and did ſometimes ſpeak very effectual to their
+<pb n="7" facs="tcp:172446:5"/> conditions to the eaſing their afflicted Spiri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as divers have teſtified, and can teſtifie.</p>
+                  <p>He was a good example in this Count<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> where he lived, encouraging friends both b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exhortation and diligence, in obſerving th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> good order of truth to keep things clea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and to keep the Goſpel void of offence <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> much as in him lay, and after he fell into <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> way of trade in the World, his care was <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> keep his word, and that men might be paid i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> due time according to their expectations. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> which thing it would be well if all the profe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſors of truth would follow his exampl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </p>
+                  <p>He was a man that never exalted himſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> above his Brethren, but carried a good re<g ref="char:EOLunhyphen"/>ſpect to them, and to their counſel and judg<g ref="char:EOLunhyphen"/>ment, according as God had given judgmen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and wiſdom to his Children; neither did h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> exerciſe himſelf in things too high for him but dwelt in a contented Habitation, in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> meaſure and diſpenſation of the Grace an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Goſpel committed to him, ſerving the Lord Jeſus and his Church and people therein with out wearineſs to the end of his days, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> eying his own Intereſt thereby, but in ſimpli<g ref="char:EOLunhyphen"/>city of heart miniſtred to every ones conditi<g ref="char:EOLunhyphen"/>on, according to the leadings of the gift o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God that was in him.</p>
+                  <pb n="8" facs="tcp:172446:6"/>
+                  <p>In fine, His Life and Converſation made <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n lovely, and his End was honourable, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is crowned with Immortality and eternal <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fe, and hath left the World in a good age, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ving attained to about 63 years, and hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t an example of Innocency and Sincerity to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em that are left behind, and bleſſed will all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey be, that in Faithfulneſs follow the ſame, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d fulfill their Race as he hath done, they all alſo partake of the ſame Crown of Im<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ortality and eternal Life.</p>
+                  <closer>
+                     <signed>Steven Criſp.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>Great hath been the loving-kindneſs of the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ue God, who after a long night of darkneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at hath been over the Nations, yet he hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t left himſelf without a Witneſs, which in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery Age and Generation ſtrove with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns and Daughters of men, and bore witneſs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to him, and gave men to ſee what it was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at he required of them, and in this Age, as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> other Generations, he hath raiſed up Wit<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſes and Miniſters, who has born teſtimony <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Coming of Chriſt, and of his being <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ade manifeſt in Spirit, in the hearts of Men <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Women; among whom was this faithful <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ervant and Miniſter <hi>William Allen,</hi> who is
+<pb n="9" facs="tcp:172446:6"/> gone to his Reſt prepared for him, having <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>niſhed his courſe in a good time, in the fee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ing of the Power and Majeſty of the Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of which I am a Witneſs with him, I bei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> with him a few days before his departur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> when I ſaw him in great weakneſs of Bod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> yet bearing a ſweet and heavenly Image, a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his ſpirit livingly breathing to God, whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> brought the day of my tender years (in whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> I firſt ſaw him) into my remembrance, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> firſt the Lord ſhined upon me, and gave me ſight of the good Land: this man of God b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ing the firſt publick Miniſter of the Goſpel <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Jeſus that ever I ſaw, whoſe appearance w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> beautifull and lovely, and God's Image w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> upon him, and he bore the Image of the he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>venly; his words were weighty, and gra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Sentences, who looking upon me, and pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ceiving my weak condition, he breathed u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to God, for my growth and preſervation <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Truth, which (bleſſed be the Lord,) Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> heard his Prayers, and anſwered the deſire <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> his Petition; for indeed I was as a Bran<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pluckt out of the fire. This was the Love <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the long-ſuffering God, who waited to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> gracious to the workmanſhip of his han<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Oh Lord keep me in the remembrance of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="10" facs="tcp:172446:7"/> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y for ever, that thy Name may be honoured <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> me; for ſurely thy Love is great, and thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ercy endureth for ever to thy ſeed that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eaths after thee, and cannot be ſatisfied <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ithout the enjoyment of thee; praiſes to thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame for ever.</p>
+                  <closer>
+                     <dateline>
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>orwich</hi>
+                        <date>the 3d. 1. Mo. 1679/80.</date>
+                     </dateline>
+                     <signed>John Fediman.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>The Lord having viſited a Remnant in our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ge and Generation, with the knowledge of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s everlaſting Truth, by cauſing his Day to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wn from on high, did raiſe up ſeveral faith<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll Miniſters, as Inſtruments in his hand, for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e carrying on of his Work, and redeeming <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s people from the Kindreds, Tongues and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nguages, and from the many by-ways, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere they were ſcattered upon the barren <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ountains, to bring them to the one Shep<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rd and one Sheepfold, among whom was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r deceaſed Friend <hi>William Allen,</hi> who was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lled forth near the beginning of the day, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d endued with a living and powerfull Mini<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y, whereby many by him were turned from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rkneſs to light, and from Sathan's power to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e power of God, (ſome of whom remains <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is day as the ſeal of his Miniſtry) which
+<pb n="11" facs="tcp:172446:7"/> though it was not adorned with the words <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> man's wiſdom, yet it was reaching and co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>vincingly effectual unto many, who we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> made ſenſible of the Life that dwelt in hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and by which he ſounded a certain Alarm <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thoſe he travelled amongſt, (being moſtly i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Norfolk, Suffolk, Eſſex,</hi> and <hi>Cambridgeſhir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> and Parts adjacent) and was read and unde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ſtood by the breathing travelling Babes, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> whom he miniſtred ſuitably, giving Milk t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> them, and Meat to thoſe of riper age, (h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> being skilfull in dividing the Word aright ſo that by him the mourners were comforte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and the feeble ſtrengthned and encouraged, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> perſevere on in their moſt holy Faith; but hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> teſtimony was as a ſword to the rebelliou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and diſobedient, and would oft declare, tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Meſſage committed to him, was not onl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to proclaim liberty to the captives, and gla<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> tidings to the meek, but the day of vengeanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of our God, to all that obeyed not the Go<g ref="char:EOLunhyphen"/>ſpel, that being convinced of the truth, ſat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> down in a whole-hearted ſtate, and knowin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> God did not like to retain him in their know<g ref="char:EOLunhyphen"/>ledge, and therefore would oft cry, In a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> much as the day haſtens, wherein the Lord would take vengeance on ſuch in flames o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="12" facs="tcp:172446:8"/> fire, Come away, come away, haſte, flee for our lives, come out of <hi>Babylon,</hi> ſtick not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> her skirts, partake not with her of her ſins, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt you partake of her plagues, but come up, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ome up to the holy Hill, that you may be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>old what the Lord is doing in his Sanctuary, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ho is creating <hi>Jeruſalem</hi> a praiſe, and her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eople a rejoycing, the day being now come <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at was propheſied of, that ſhe ſhould be in<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bited without walls, the Lord himſelf be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g a wall of fire round about her, and her <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ory in the midſt of her. Therefore let the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>habitants of the Rock now ſing, and ſhout <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oud for joy, for <hi>Sion</hi>'s Light is come, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Glory of the Lord is riſen upon her, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> now become as an overflowing Stream.</p>
+                  <p>And it was not only given to him to be<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eve, but alſo to ſuffer for the Teſtimony com<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itted to him, being in perils and priſons oft, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s at <hi>Colcheſter</hi> Caſtle, being taken at <hi>Weathers<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eld</hi> as he was going to a meeting near that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>own, and committed by <hi>Dudly Templar,</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>alled Juſtice, <hi>Anno</hi> 1658. (as alſo at <hi>Cam<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ridge</hi>-Caſtle, <hi>Ely,</hi> and <hi>Lyn</hi>) while he was at <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Caſtle at <hi>Colcheſter,</hi> (he having after ſome <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me ſome liberty granted him) was made <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erviceable there, ſounding forth the everla<g ref="char:EOLhyphen"/>ſting
+<pb n="13" facs="tcp:172446:8"/> Goſpel, ſo that divers were awaken<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and gained to the Truth; amongſt others, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was made inſtrumental to me, and hath be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as a Father to me for theſe divers years, ſee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ing and travelling for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y preſervation in t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> way of life, ſo that we were near and dear <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> one another; and oft have I been refreſhe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> (with many more) through that ſtream <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Life that ran through him in the Aſſemblies <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Lord's people, ſo that I can truly ſay, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> was pleaſant to me to ſit and hear the ſound <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Life through him, his care being (as he wou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> oft by way of counſel ſay to others) to wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that God might give the breath, (that w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> might be as Trumpets in his hand) for the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> only it gave a certain ſound; his heart w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> upright to God, (and his care was over th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Flock of God, where his lot was caſt) who<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> glory he ſought above all, and hath his r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>ward with him in Glory for ever, though h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> met with exerciſes as to the outward man, (in<g ref="char:EOLunhyphen"/>cident to mankind while in this Tabernacl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of clay) eſpecially within a year and ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> before his deceaſe, being much afflicted wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> bodily Weakneſs and Sickneſs, but would o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſay he was content in the Will of his Fathe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and to drink the Cup at his hand. In whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <pb n="14" facs="tcp:172446:9"/> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ime he ſhewed forth the Meekneſs and Pati<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nce of him that dwelt in him, and a large ſhare <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e had of his Father <hi>Job</hi>'s exerciſes, as he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ould himſelf ſay. But the Lord in due time <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eeing it was enough, (and that he had born a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rge ſhare of the heat of the day) (ſpending <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd being ſpent for the Goſpel) put a period <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o his days: Who was filled with the glory of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Lord to the laſt (ſo that he ſaid he could <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out for joy but that he wanted ſtrength of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ody) which he ſaid was but an earneſt of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hat he ſhould more fully enjoy when this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arthly Tabernacle was diſſolved. Who now <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> entred into his reſt and ſhines as a Star in the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irmament, and his memory is bleſſed, who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et lives, and with whoſe Spirit we feel uni<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y and Fellowſhip (though the earthly Taber<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>acle is returned to its center) which unity <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſts and endures through ages and generations, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>here the Spirits of juſt men made perfect are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>elt, that are gon before us; and that life which <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>welt in them remains with us; which is our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oy, Comfort, and Encouragement to perſe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ere on in the way of life: and to us is a cer<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain Teſtimony that (though the Lord is plea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed to remove his Servants and Prophets from <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>) he will not leave nor forſake us, but will
+<pb n="15" facs="tcp:172446:9"/> ſtill lead his people, as a Flock to the freſh Pa<g ref="char:EOLunhyphen"/>ſtures of life, there to lie down, where none can make afraid; wherein the bleſſed ſence of the overcomings of his love, the holy high praiſes is offered up unto him who is worthy of it, for all his Mercies and Bleſſings daily enjoyed, increaſed, and multiplyed upon us, who hath been our preſerver and uphold<g ref="char:EOLhyphen"/>er to this very day, and is our ſtay and ſtrength in the deepeſt exerciſes: Bleſſed are they who keep to him, they never are forſaken. To him be the Glory and Praiſe for ever.</p>
+                  <closer>
+                     <signed>
+                        <hi>John Furly</hi> Junior.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Teſtimony of <hi>Ann Furly</hi> the Elder, concer<g ref="char:EOLhyphen"/>ning our deceaſed Friend <hi>William Allen.</hi>
+                  </head>
+                  <p>HE was a man whom God made inſtru<g ref="char:EOLhyphen"/>mental to my being convinced of the bleſſed Truth, and in whom the Power of God much dwelt, his Miniſtry was a living Miniſtry, he lived in that which he declared of, he did not only exhort to faithfulneſs, but he was always found in it himſelf, he was Va<g ref="char:EOLhyphen"/>liant upon Earth for Gods bleſſed truth, and as
+<pb n="16" facs="tcp:172446:10"/> the Lord required it of him he thought not his life dear, but did hazzard it many a time; in particular here at <hi>Colcheſter,</hi> where he expoſed himſelf to the rage of the cruel Troopers (to the apparent hazzard of his life in the time of their ſore beating and abuſing friends when aſ<g ref="char:EOLhyphen"/>ſembled together (he then openly declaring the truth amonſt us) but the ſecret arm of the Lord preſerved him and his people that day, that was no hurt done, for which the Lord was praiſed for his great deliverance, for it was his Wonderful hand only that effected it. And now after all his labours, the Lord hath given him a good reward and received him up to glory as he will do every one who abides faithful to what he makes manifeſt.</p>
+                  <closer>
+                     <signed>
+                        <hi>Ann Furly</hi> the Elder.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Teſtimony of <hi>Martha King,</hi> concerning our dear Friend <hi>William Allen.</hi>
+                  </head>
+                  <p>THis dear worthy of the Lord and Valiant in <hi>Iſrael,</hi> who engaged in the Lambs Warfare till he overcame; he was made a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Pillar in the houſe of God, and as a Trum<g ref="char:EOLhyphen"/>pet that gave a certain ſound; Sounding forth
+<pb n="17" facs="tcp:172446:10"/> an alarme from Gods holy Mountain, where<g ref="char:EOLhyphen"/>by many were awakened to righteouſneſs, and their Spirits quickened; and a remnant are the ſeal of his Miniſtry at this day; to whom he was an inſtrument in the hand of the Lord, for the turning their minds from dark<g ref="char:EOLhyphen"/>neſs to light, and from Sathans Power to the Power of God. My Spirit is bowed before the Lord, and the cry of my Soul is, that all who were ſo turned by him may for ever walk worthy of the Lords goodneſs, and anſwer his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arge love to our Souls, ſo ſhall we anſwer the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>abour and travels of this our dear deceaſed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riend, that they be not beſtowed upon us in vain, who breathed for the proſperity of <hi>Sion,</hi> that all whoſe faces were turned <hi>Sion</hi>-wards night not look back, nor linger in the Suburbs of <hi>Babylon;</hi> thoſe that did ſo, he would oft declare ſhould be left behind, and <hi>Amalek</hi> ſhould prevail over them.</p>
+                  <p>Much might be written concerning the bleſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed life and power which dwelt in this our dear <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riend, wherein he obtained a good increaſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hrough his faithfulneſs to the Lord: the ſtrea<g ref="char:EOLhyphen"/>ning forth thereof was very ſweetly refreſhing, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd conſolating to thoſe whoſe hearts were tru<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y bowed to God.</p>
+                  <pb n="18" facs="tcp:172446:11"/>
+                  <p>Now, this remains, that we follow his ſteps <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n all faithfulneſs, holineſs, and Godly fear, and pure obedience to the Lord, watching to his Power, having a ſingle eye to him the liv<g ref="char:EOLhyphen"/>ing fountain, from whence all our refreſhings come, that we may have bread in our own Houſes and water in our own Ciſterns, and witneſs a growth and increaſe in the increaſes of God, ſo ſhall we alſo finiſh our courſe with joy, and lay down our heads in reſt and peace with the Lord as he hath done.</p>
+                  <closer>
+                     <signed>Martha King.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>OUr dear friend <hi>William Allen</hi> is gone, and Immortal is his Crown, and he is at reſt in his Fathers boſom. In his ſickneſs he would ſay that he was filled with the joy of the Lord, and with the preſence of his Father. Our loſs is great, for I can truly ſay that he was an In<g ref="char:EOLhyphen"/>ſtrumennt in the hand of God to do good to my Soul, and to many more, and the living preſence of the Lord was with him, for our Souls have been refreſhed with his living Mini<g ref="char:EOLhyphen"/>ſtry many a time, and although his body is re<g ref="char:EOLhyphen"/>moved
+<pb n="19" facs="tcp:172446:11"/> from us, yet we injoy him in that I which is Immortal, as we abide faithful.</p>
+                  <closer>
+                     <signed>Suſanna Potter.</signed>
+                     <dateline>
+                        <hi>Colchester</hi> in <hi>Eſſex.</hi> 
+                        <date>11th. 1. Mo. 1679/80.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Dear Friends,</salute>
+                  </opener>
+                  <p>There is ſomething in my heart to wri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> concerning our dear Friend <hi>William Alle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> whom the Lord hath taken out of the Bod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> but his Life ſtill lives with the upright in heart he was a man that did truly fear the Lord and ſought his Glory alone; he turned man<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from darkneſs to light, and from Sathan power to the power of God, and there ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> many living Witneſſes thereof. The Lord was good to him night and day, beyon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> what words can declare, and although h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> felt Exerciſes as to the outward man to a<g ref="char:EOLunhyphen"/>bound, yet his conſolation in the heavenly power much more abounded; for the Lord fill'd him with the flagons of his Love, and new Wine of the Kingdom, that he was ſtrait<g ref="char:EOLunhyphen"/>ned in the earthly Tabernacle, being ſo fil<g ref="char:EOLunhyphen"/>led
+<pb n="20" facs="tcp:172446:12"/> with the living preſence of the Lord, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>at he would ſay he wanted room, Let me <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o.</p>
+                  <p>Much might be ſpoken as to that living <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ower that wrought in him, and his faith<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lneſs thereunto, and many of his living <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>xpreſſions doth remain with me, as con<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erning Friends keeping low in the middle <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ath of judgement, where the Redemption <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f <hi>Sion</hi> comes to be witneſſed. But not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nto us, not unto us, but unto the heavenly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ower, Spirit and Life, that wrought effe<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tually in him, and preſerved him to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd of his days, be all praiſe, power, domi<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ion, and thanks given, for ever and ever<g ref="char:EOLhyphen"/>more, <hi>Amen,</hi> ſaith my Soul.</p>
+                  <closer>
+                     <signed>Elizabeth Fryet.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172446:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
